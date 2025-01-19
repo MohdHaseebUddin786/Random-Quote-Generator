@@ -2,9 +2,11 @@
 '''
 Random Quote
 '''
+<br>
 import random
-
+<br>
 def display_random_quote():
+<br>
     quotes = [
        "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.",
         "You have to dream before your dreams can come true.",
